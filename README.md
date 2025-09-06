@@ -1,5 +1,5 @@
 # Simpal-Calculator-with-Java-Gui
 Simpal Calculator  
 
-To Downloade goto Branch and goto Active
+To Downloade goto Branches and goto Active Branches.
 
